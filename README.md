@@ -2,8 +2,7 @@
 
 - 👋 OLÁ MEU NOME É @bryanpeplow
 - 👀 MEU EMAIL DE CONTATO E FABIO.BARBOZA@ESCOLA.PR.GOV.BR
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 eu estou interessado em aprender novas linguagens
+- 💞️ eu estou aprendendo a programar recentemente a linguagem de javascript e scrath
 
 
